@@ -1,5 +1,5 @@
 ## Truzt Desktop — secure mesh network client (daemon + UI).
-## Auto-updated by the Truzt release pipeline.
+# Auto-updated by the Truzt release pipeline.
 cask "truzt" do
   arch arm: "arm64", intel: "amd64"
 
